@@ -1,0 +1,31 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    background: beige;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.card {
+    margin: 4rem;
+    border-color: lightgray;
+}
+
+.custom-color {
+    background: pink;
+}
+
+.footer_contacto {
+    background: lightblue;
+}
+
+.boton_enviar {
+    text-align: center;
+}
+
+.custom-color1 {
+    background: lightgrey;
+}
+
+.icono_github {
+    margin: auto;
+}
